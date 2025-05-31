@@ -2,37 +2,37 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Which solution has the highest boiling point?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "2.0 m Ca(NO₃)₂",
+        "b": "1.0 m Ca(NO₃)₂",
+        "c": "1.0 m KNO₃",
+        "d": "2.0 m KNO₃"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Higher molality and higher van 't Hoff factor (i = 3) for Ca(NO₃)₂ leads to the highest boiling point elevation.",
+        "b": "Lower molality than option a, so lower boiling point elevation.",
+        "c": "Lower van 't Hoff factor (i = 2) and molality compared to a and d.",
+        "d": "Higher molality but lower van 't Hoff factor (i = 2) compared to option a."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Which one of the following solvents has the lowest boiling point?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Carbon disulfide",
+        "b": "Carbon tetrachloride",
+        "c": "Chloroform",
+        "d": "Benzene"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Carbon disulfide has the lowest boiling point among these solvents.",
+        "b": "Carbon tetrachloride boils higher than carbon disulfide.",
+        "c": "Chloroform boils higher than carbon disulfide.",
+        "d": "Benzene has a higher boiling point than carbon disulfide."
       },
-      "correctAnswer": "c",
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
