@@ -34,11 +34,24 @@ Where, $\Delta T_b$ is the elevation of the boiling point;¨m is the molality of
 The value of van 't Hoff factor depends upon the number of individual ions formed in solution. i.e:
 
 - i = 1 for sugar in water.
-- i = 2 for sodium chloride (NaCl) in water, due to the its full dissociation into $\ce{Na+}$ and $\ce{Cl-}$ ions.
-- i = 3 for calcium chloride (CaCl2) in water, due to its full dissociation $\ce{Ca^2+}$ and $\ce{2 Cl^-}$ ions.
+- i = 2 for sodium chloride (NaCl) in water, due to the its full dissociation into Na<sup>+</sup> and Cl<sup>−</sup> ions.
+- i = 3 for calcium chloride (CaCl2) in water, due to its full dissociation Ca<sup>2+</sup> and 2Cl<sup>−</sup> ions.
 
 The van 't Hoff factor is a measure of the colligative effect (the total number of particles) of the solute in solution. The value of i is usually unity for all non-electrolytes, greater than unity for electrolytes, but is less than unity for compounds that associate in solution.
 
 $K_b$ is the molal boiling point elevation constant or ebullioscopic constant of the solvent, and it is depends upon the properties of the solvent. Which can be calculated as:
+
+$$K_b=R.T^2_b.M/\Delta H_v$$
+
+### Calculation of molecular mass of a solute from elevation of boiling point:
+
+It is possible to calculate the molecular mass of a solute from the observed elevation in the boiling point by using the equation:
+
+
+$$M_B=\frac{1000.K_b.i.W_B}{\Delta T_b.W_A}$$
+
+Where $W_B$ is the weight of the solute; $W_A$ is the weight of solvent; $\Delta T_b$ is the elevation of the bolling poit; $K_B$ molal boiling  point elevation constant; and i is the van 't Hoff factor.
+
+<div style="display: block; margin-left: auto; margin-right: auto; text-align: center; width: fit-content;"><img src="./images/figure1.jpg" alt="Figure 1" style="max-width: 600px; height: auto;"><p style="text-align: center; font-size: smaller; font-style: italic;"> </p></div>
 
  
