@@ -34,6 +34,57 @@
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
+    },
+    {
+      "question": "As the number of components in a solution increases, the individual vapour pressure .............?",
+      "answers": {
+        "a": "Decreases",
+        "b": "Decreases and then increases",
+        "c": "No effect",
+        "d": "Increases"
+      },
+      "explanations": {
+        "a": "According to Raoult's law, adding more solute components lowers the vapour pressure.",
+        "b": "Incorrect pattern for typical solutions.",
+        "c": "There is an effect; this is incorrect.",
+        "d": "Vapour pressure decreases, not increases."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "For non-electrolytes, the value of \"i\" is .........?",
+      "answers": {
+        "a": "One",
+        "b": "Depending upon the ions formed",
+        "c": "Two",
+        "d": "Zero"
+      },
+      "explanations": {
+        "a": "Non-electrolytes do not dissociate, so van 't Hoff factor i = 1.",
+        "b": "This applies for electrolytes, not non-electrolytes.",
+        "c": "Incorrect for non-electrolytes.",
+        "d": "i cannot be zero; at least one particle exists."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Ebullioscopic constant of the solvent depends upon ...........",
+      "answers": {
+        "a": "Properties of solute",
+        "b": "Properties of Solvent",
+        "c": "Temperature of the system",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "Incorrect — it depends on the solvent, not solute.",
+        "b": "Correct — the ebullioscopic constant is a property of the solvent.",
+        "c": "Temperature influences boiling but constant is intrinsic to solvent.",
+        "d": "Incorrect."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
     }
   ]
 }
